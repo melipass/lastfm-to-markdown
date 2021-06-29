@@ -3,10 +3,10 @@ import os
 import json
 
 def lastfm_request(payload):
-    headers = {'user-agent': os.environ('LASTFM_USER')}
-    payload['api_key'] = os.environ('LASTFM_API_KEY')
+    headers = {'user-agent': os.getenv('LASTFM_USER')}
+    payload['api_key'] = os.getenv('LASTFM_API_KEY')
     payload['format'] = 'json'
-    payload['user'] = os.environ('LASTFM_USER')
+    payload['user'] = os.getenv('LASTFM_USER')
     response = requests.get('https://ws.audioscrobbler.com/2.0/',
                             headers=headers, params=payload)
     return response
