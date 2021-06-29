@@ -2,8 +2,8 @@ name: 'lastfm to markdown'
 author: 'melipass'
 description: 'Adds your Last.fm Weekly Chart to your GitHub Profile or any repo with a README.md'
 runs:
-  using: 'docker'
-  image: 'Dockerfile'
+  using: 'ubuntu-latest'
+  main: 'lastfm.py'
 branding:
   icon: 'music'
   color: 'red'
