@@ -19,7 +19,7 @@ inputs:
     default: ${{ secrets.GITHUB_TOKEN }}
 
 runs:
-  using: 'ubuntu-latest'
+  using: 'python'
   main: 'lastfm.py'
 
 branding:
