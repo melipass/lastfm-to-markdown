@@ -1,7 +1,7 @@
 # last.fm to markdown
 
 ## 🤖 About this repo
-This is a small project that I started because I wanted to have my last.fm weekly chart on my GitHub profile. I used GitHub Actions because they can be scheduled with cron jobs and you won't need extra privileges to modify the README.md file if it's in the same repo. To use this repo, see the [Marketplace](https://github.com/marketplace/actions/lastfm-to-markdown).
+This is a small project that I started because I wanted to have my last.fm weekly chart on my GitHub profile. I used GitHub Actions because they can be scheduled with cron jobs and you won't need extra privileges to modify the README.md file if it's in the same repo. To use this, see the [Marketplace](https://github.com/marketplace/actions/lastfm-to-markdown).
 
 ## 👩🏽‍💻 What you need
 * Last.fm API key
