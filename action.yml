@@ -1,5 +1,5 @@
 name: 'lastfm to markdown'
-author: melipass
+author: 'melipass'
 description: 'Adds your Last.fm's Weekly Chart to your GitHub Profile (or any repo with a README.md)'
 
 inputs:
