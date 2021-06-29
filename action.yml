@@ -19,8 +19,8 @@ inputs:
     default: ${{ secrets.GITHUB_TOKEN }}
 
 runs:
-  using: 'python'
-  main: 'lastfm.py'
+  using: 'docker'
+  image: 'Dockerfile'
 
 branding:
   icon: 'music'
