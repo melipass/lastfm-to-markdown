@@ -31,12 +31,15 @@ jobs:
         run: python lastfm.py
 
       - name: commit changes
+        continue-on-error: true
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
           git commit -m "Updated last.fm's weekly chart" -a
+        
       - name: push changes
+        continue-on-error: true
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}\
