@@ -5,7 +5,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 👩🏽‍💻 What you need
 * Last.fm API key
-  * Fill [this form](https://www.last.fm/api/account/create) to get one. Requires a last.fm account.
+  * Fill [this form](https://www.last.fm/api/account/create) to instantly get one. Requires a last.fm account.
 * Set up a GitHub Secret called ```LASTFM_API_KEY``` with the value given by last.fm.
 * Also set up a ```LASTFM_USER``` GitHub Secret with the user you'll get the weekly charts for.
 * Add a ```<!-- lastfm -->``` tag in your README.md file, with two blank lines below it. The album covers will be placed here.
