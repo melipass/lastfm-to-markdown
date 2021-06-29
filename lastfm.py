@@ -28,25 +28,25 @@ def get_album_covers(artist_and_album):
         payload = {'method': 'album.getinfo',
                    'artist': album[0],
                    'album': album[1]}
-        images.append(lastfm_request(payload).json()['album']['image'][1]['#text'])
+        images.append([album[0], album[1],
+                      lastfm_request(payload).json()['album']['image'][1]['#text']])
     return images
 
 
 def update_readme(images):
-    with open('README.md','r') as file:
+    with open('README.md', 'r', encoding='utf-8') as file:
         readme = file.readlines()
     lastfm_line_index = readme.index('<!-- lastfm -->\n') + 1
     lastfm_line = ''
-    for url in images:
-        if (requests.get(url).status_code == 200):
-            lastfm_line = lastfm_line + '![lastfm' + str(images.index(url)) + '](' + url + ') '
+    for img in images:
+        print(img[0])
+        print(img[1])
+        if (requests.get(img[2]).status_code == 200):
+            lastfm_line = lastfm_line + '![' + img[0] + ' - ' + img[1] + '](' + img[2] + ') '
         else:
             pass
-    if (readme[lastfm_line_index] == lastfm_line):
-        return
-    else:
-        readme[lastfm_line_index] = lastfm_line
-    with open('README.md', 'w') as file:
+    readme[lastfm_line_index] = lastfm_line
+    with open('README.md', 'w', encoding='utf-8') as file:
         file.writelines(readme)
 
 
