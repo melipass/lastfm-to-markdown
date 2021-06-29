@@ -1,6 +1,6 @@
 import requests
 import os
-import json
+
 
 def lastfm_request(payload):
     headers = {'user-agent': os.getenv('LASTFM_USER')}
@@ -38,8 +38,14 @@ def update_readme(images):
     lastfm_line_index = readme.index('<!-- lastfm -->\n') + 1
     lastfm_line = ''
     for url in images:
-        lastfm_line = lastfm_line + '![lastfm' + str(images.index(url)) + '](' + url + ') '
-    readme[lastfm_line_index] = lastfm_line
+        if (requests.get(url).status_code == 200):
+            lastfm_line = lastfm_line + '![lastfm' + str(images.index(url)) + '](' + url + ') '
+        else:
+            pass
+    if (readme[lastfm_line_index] == lastfm_line):
+        return
+    else:
+        readme[lastfm_line_index] = lastfm_line
     with open('README.md', 'w') as file:
         file.writelines(readme)
 
