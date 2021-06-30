@@ -11,6 +11,11 @@ inputs:
     description: 'Last.fms user to get their weekly chart.'
     required: true
     default: LASTFM_USER
+    
+  IMAGE_COUNT:
+    description: 'How many album covers will appear.'
+    required: false
+    default: 10
 
 runs:
   using: 'composite'
@@ -18,6 +23,7 @@ runs:
     - env:
         LASTFM_API_KEY: ${{ inputs.LASTFM_API_KEY }}
         LASTFM_USER: ${{ inputs.LASTFM_USER }}
+        IMAGE_COUNT: ${{ inputs.IMAGE_COUNT }}
       run: python ${{ github.action_path }}/lastfm.py
       shell: bash
       
