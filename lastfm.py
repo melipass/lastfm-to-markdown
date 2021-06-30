@@ -37,18 +37,19 @@ def update_readme(images):
     with open('README.md', 'r', encoding='utf-8') as file:
         readme = file.readlines()
     lastfm_line_index = readme.index('<!-- lastfm -->\n') + 1
-    lastfm_line = ''
+    lastfm_line = '<p align="center">'
     for img in images:
         print(img[0])
         print(img[1])
         if (requests.get(img[2]).status_code == 200):
-            lastfm_line = lastfm_line + '![' + img[0] + ' - ' + img[1] + '](' + img[2] + ') '
+            lastfm_line = lastfm_line + '<img src="' + img[2] + '" title="' + img[0] + ' - ' + img[1] + '"> '
+            # lastfm_line = lastfm_line + '![' + img[0] + ' - ' + img[1] + '](' + img[2] + ') '
         else:
             pass
     if (readme[lastfm_line_index] == lastfm_line):
         sys.exit(0)
     else:
-        lastfm_line = lastfm_line + '\n'
+        lastfm_line = lastfm_line + '</p>\n'
         readme[lastfm_line_index] = lastfm_line
     with open('README.md', 'w', encoding='utf-8') as file:
         file.writelines(readme)
