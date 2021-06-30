@@ -40,7 +40,7 @@ def update_readme(images):
     lastfm_line = '<p align="center">'
     i = 0
     for img in images:
-        if (i < (int(os.getenv('IMAGE_COUNT')) + 1)):
+        if (i < int(os.getenv('IMAGE_COUNT'))):
             if (requests.get(img[2]).status_code == 200):
                 lastfm_line = lastfm_line + '<img src="' + img[2] + '" title="' + img[0] + ' - ' + img[1] + '"> '
                 # lastfm_line = lastfm_line + '![' + img[0] + ' - ' + img[1] + '](' + img[2] + ') '
