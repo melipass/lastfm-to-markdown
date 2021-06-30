@@ -48,6 +48,7 @@ def update_readme(images):
     if (readme[lastfm_line_index] == lastfm_line):
         sys.exit(0)
     else:
+        lastfm_line = lastfm_line + '\n'
         readme[lastfm_line_index] = lastfm_line
     with open('README.md', 'w', encoding='utf-8') as file:
         file.writelines(readme)
