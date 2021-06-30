@@ -24,12 +24,17 @@ def get_weekly_album_chart():
 
 def get_album_covers(artist_and_album):
     images = []
+    i = 0
     for album in artist_and_album:
-        payload = {'method': 'album.getinfo',
-                   'artist': album[0],
-                   'album': album[1]}
-        images.append([album[0], album[1],
-                      lastfm_request(payload).json()['album']['image'][1]['#text']])
+        if (i < getenv('IMAGE_COUNT'):
+            payload = {'method': 'album.getinfo',
+                       'artist': album[0],
+                       'album': album[1]}
+            images.append([album[0], album[1],
+                          lastfm_request(payload).json()['album']['image'][1]['#text']])
+            i++
+        else:
+            break
     return images
 
 
