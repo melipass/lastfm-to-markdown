@@ -22,7 +22,7 @@ runs:
     - env:
         LASTFM_API_KEY: ${{ inputs.LASTFM_API_KEY }}
         LASTFM_USER: ${{ inputs.LASTFM_USER }}
-      run: python lastfm.py
+      run: ${{ github.action_path }}/python lastfm.py
       shell: bash
 branding:
   icon: 'music'
