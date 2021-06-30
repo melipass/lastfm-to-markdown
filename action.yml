@@ -19,7 +19,7 @@ inputs:
 runs:
   using: 'composite'
   steps:
-      run: python ${{ github.action_path }}/lastfm.py
+      run: python lastfm.py
       shell: bash
 branding:
   icon: 'music'
