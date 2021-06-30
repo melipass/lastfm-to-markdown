@@ -19,7 +19,7 @@ inputs:
 runs:
   using: 'composite'
   steps:
-      env:
+    - env:
         LASTFM_API_KEY: ${{ inputs.LASTFM_API_KEY }}
         LASTFM_USER: ${{ inputs.LASTFM_USER }}
       run: python lastfm.py
