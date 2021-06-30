@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 <!-- lastfm -->
 ![Paramore - Paramore](https://lastfm.freetls.fastly.net/i/u/64s/bebe11f4ddf3dee473b26c7e2d5c9ff6.png) ![Fishmans - 98.12.28 男達の別れ](https://lastfm.freetls.fastly.net/i/u/64s/f473049c0d8b4dc5cdf70ca773c32ee1.png) ![Paramore - After Laughter](https://lastfm.freetls.fastly.net/i/u/64s/fc4c4f4eb4fa6e9215ecb6705cbb72de.png) ![Fishmans - 宇宙 日本 世田谷](https://lastfm.freetls.fastly.net/i/u/64s/42f09145a2c040959ffe6bbf1a82034c.png) ![Fishmans - Long Season](https://lastfm.freetls.fastly.net/i/u/64s/bff21f34908aa59773d0c3621cb373b0.png)
 
-
+          
 ## 👩🏽‍💻 What you'll need
 * A README.md file.
 * Last.fm API key
@@ -51,6 +51,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}\
           branch: main
 ```
+The cron job is scheduled to run once a day because Last.fm's API updates weekly chart data daily at 00:00, it's useless to make more than 1 request per day because you'll get the same information back every time. You can manually run the workflow in case Last.fm's API was down at the time, going to the Actions tab in your repository.
 
 ## 🚧 To do
 * Allow users to choose the image size and image count for the album covers.
