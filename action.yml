@@ -25,22 +25,6 @@ runs:
       run: python ${{ github.action_path }}/lastfm.py
       shell: bash
       
-    - name: commit changes
-      continue-on-error: true
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add -A
-        git commit -m "Updated last.fm's weekly chart" -a
-      shell: bash
-
-    - name: push changes
-      continue-on-error: true
-      uses: ad-m/github-push-action@v0.6.0
-      with:
-        github_token: ${{ inputs.GITHUB_TOKEN }}\
-        branch: main
-      shell: bash
 branding:
   icon: 'music'
   color: 'red'
