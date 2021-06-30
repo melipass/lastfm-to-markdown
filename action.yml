@@ -5,17 +5,17 @@ inputs:
   LASTFM_API_KEY:
     description: 'Last.fm API Key. Store it as a GitHub Secret.'
     required: true
-    default: ${{ secrets.LASTFM_API_KEY }}
+    default: LASTFM_API_KEY
 
   LASTFM_USER:
     description: 'Last.fms user to get their weekly chart.'
     required: true
-    default: ${{ secrets.LASTFM_USER }}
+    default: LASTFM_USER
 
   GITHUB_TOKEN:
     description: 'Your GitHub token to push to the repo.'
     required: true
-    default: ${{ secrets.GITHUB_TOKEN }}
+    default: GITHUB_TOKEN
 runs:
   using: 'composite'
   steps:
