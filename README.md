@@ -18,7 +18,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## Instructions
 To use this release, add a ```lastfm.yml``` workflow file to the ```.github/workflows``` folder in your repository with the following code:
-```
+```diff
 name: lastfm-to-markdown
 
 on:
@@ -32,10 +32,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: lastfm to markdown
-        uses: melipass/lastfm-to-markdown@v1.1
+        uses: melipass/lastfm-to-markdown@v1.2
         with:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: ${{ secrets.LASTFM_USER }}
+#         IMAGE_COUNT: 6 # Optional. Defaults to 10. Feel free to remove this line if you want.
       - name: commit changes
         continue-on-error: true
         run: |
@@ -54,5 +55,5 @@ jobs:
 The cron job is scheduled to run once a day because Last.fm's API updates weekly chart data daily at 00:00, it's useless to make more than 1 request per day because you'll get the same information back every time. You can manually run the workflow in case Last.fm's API was down at the time, going to the Actions tab in your repository.
 
 ## 🚧 To do
-* Allow users to choose the image size and image count for the album covers.
-* Feel free to send a PR for anything you believe would be useful.
+* Allow users to choose the image size for the album covers.
+* Feel free to open an issue or send a pull request for anything you believe would be useful.
