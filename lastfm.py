@@ -26,7 +26,7 @@ def get_album_covers(artist_and_album):
     images = []
     i = 0
     for album in artist_and_album:
-        if (i < os.getenv('IMAGE_COUNT')):
+        if (i < int(os.getenv('IMAGE_COUNT'))):
             payload = {'method': 'album.getinfo',
                        'artist': album[0],
                        'album': album[1]}
