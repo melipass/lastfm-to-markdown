@@ -2,8 +2,10 @@ name: 'lastfm to markdown'
 author: 'melipass'
 description: 'Adds your Last.fm Weekly Chart to your GitHub Profile or any repo with a README.md'
 runs:
-  using: 'ubuntu-latest'
-  main: 'lastfm.py'
+  using: 'composite'
+  steps:
+    - run: python lastfm.py
+      shell: bash
 branding:
   icon: 'music'
   color: 'red'
