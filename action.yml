@@ -12,10 +12,6 @@ inputs:
     required: true
     default: LASTFM_USER
 
-  GITHUB_TOKEN:
-    description: 'Your GitHub token to push to the repo.'
-    required: true
-    default: GITHUB_TOKEN
 runs:
   using: 'composite'
   steps:
