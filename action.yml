@@ -15,7 +15,7 @@ inputs:
   IMAGE_COUNT:
     description: 'How many album covers will appear.'
     required: false
-    default: 10
+    default: '10'
 
 runs:
   using: 'composite'
