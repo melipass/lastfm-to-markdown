@@ -4,7 +4,10 @@ description: 'Adds your Last.fm Weekly Chart to your GitHub Profile or any repo 
 runs:
   using: 'composite'
   steps:
-    - run: python ${{ github.action_path }}/lastfm.py ${{ secrets.LASTFM_API_KEY }} ${{ secrets.LASTFM_USER }}
+    - env:
+        LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+        LASTFM_USER: ${{ secrets.LASTFM_USER }}
+      run: python ${{ github.action_path }}/lastfm.py
       shell: bash
 branding:
   icon: 'music'
