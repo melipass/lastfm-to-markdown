@@ -1,6 +1,21 @@
 name: 'lastfm to markdown'
 author: 'melipass'
 description: 'Adds your Last.fm Weekly Chart to your GitHub Profile or any repo with a README.md'
+inputs:
+  LASTFM_API_KEY:
+    description: 'Last.fm's API Key. Store it as a GitHub Secret.'
+    required: true
+    default: ${{ secrets.LASTFM_API_KEY }}
+
+  LASTFM_USER:
+    description: 'Last.fm's user to get their weekly chart.'
+    required: true
+    default: ${{ secrets.LASTFM_USER }}
+
+  GITHUB_TOKEN:
+    description: 'Your GitHub token to push to the repo.'
+    required: true
+    default: ${{ secrets.GITHUB_TOKEN }}
 runs:
   using: 'composite'
   steps:
