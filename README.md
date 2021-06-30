@@ -1,9 +1,10 @@
 # last.fm to markdown
 
 ## 🤖 About this repo
-This is a small project that I started because I wanted to have my last.fm weekly chart on my GitHub profile. I used GitHub Actions because they can be scheduled with cron jobs and you won't need extra privileges to modify the README.md file if it's in the same repo. To use this, see the [Marketplace](https://github.com/marketplace/actions/lastfm-to-markdown).
+This is a small project that I started because I wanted to have my last.fm weekly chart on my GitHub profile. I used GitHub Actions because they can be scheduled with cron jobs and you won't need extra privileges to modify the README.md file if it's in the same repo. If you come from the GitHub Marketplace, I'm still learning about making it usable from other repositories (any help appreciated!), but the code at the lastfmweekly.yml is enough to run things as long as you have the following requirements in place:
 
 ## 👩🏽‍💻 What you need
+* A README.md file.
 * Last.fm API key
   * Fill [this form](https://www.last.fm/api/account/create) to instantly get one. Requires a last.fm account.
 * Set up a GitHub Secret called ```LASTFM_API_KEY``` with the value given by last.fm.
@@ -11,8 +12,8 @@ This is a small project that I started because I wanted to have my last.fm weekl
 * Add a ```<!-- lastfm -->``` tag in your README.md file, with two blank lines below it. The album covers will be placed here.
 
 ## 🚧 To do
+* Fix the workflow to make it usable from other repositories, especially for those who come from the GitHub Marketplace.
 * Allow users to choose the image size and image count for the album covers.
-* If the weekly chart stays the same from the day before, the Action won't be able to commit because there will be no changes, and GitHub will send you a *Run Failed* email. Stop this from happening.
 * Feel free to send a PR for anything you believe would be useful.
 
 ## 🎵 My weekly last.fm chart (example)
