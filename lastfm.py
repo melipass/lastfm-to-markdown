@@ -32,7 +32,7 @@ def get_album_covers(artist_and_album):
                        'album': album[1]}
             images.append([album[0], album[1],
                           lastfm_request(payload).json()['album']['image'][1]['#text']])
-            i++
+            i = i + 1
         else:
             break
     return images
