@@ -5,7 +5,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/bebe11f4ddf3dee473b26c7e2d5c9ff6.png" title="Paramore - Paramore"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f473049c0d8b4dc5cdf70ca773c32ee1.png" title="Fishmans - 98.12.28 男達の別れ"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/fc4c4f4eb4fa6e9215ecb6705cbb72de.png" title="Paramore - After Laughter"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/42f09145a2c040959ffe6bbf1a82034c.jpg" title="Fishmans - 宇宙 日本 世田谷"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/bebe11f4ddf3dee473b26c7e2d5c9ff6.png" title="Paramore - Paramore"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f473049c0d8b4dc5cdf70ca773c32ee1.png" title="Fishmans - 98.12.28 男達の別れ"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/fc4c4f4eb4fa6e9215ecb6705cbb72de.png" title="Paramore - After Laughter"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/42f09145a2c040959ffe6bbf1a82034c.jpg" title="Fishmans - 宇宙 日本 世田谷"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/bff21f34908aa59773d0c3621cb373b0.png" title="Fishmans - Long Season"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/3d5fe77ecd5b4863a61cf63cc16392d2.jpg" title="The Flaming Lips - Clouds Taste Metallic"> </p>
 
           
 ## 👩🏽‍💻 What you'll need
