@@ -24,17 +24,12 @@ def get_weekly_album_chart():
 
 def get_album_covers(artist_and_album):
     images = []
-    i = 0
     for album in artist_and_album:
-        if (i < int(os.getenv('IMAGE_COUNT'))):
-            payload = {'method': 'album.getinfo',
-                       'artist': album[0],
-                       'album': album[1]}
-            images.append([album[0], album[1],
-                          lastfm_request(payload).json()['album']['image'][1]['#text']])
-            i = i + 1
-        else:
-            break
+        payload = {'method': 'album.getinfo',
+                   'artist': album[0],
+                   'album': album[1]}
+        images.append([album[0], album[1],
+                      lastfm_request(payload).json()['album']['image'][1]['#text']])
     return images
 
 
@@ -43,14 +38,17 @@ def update_readme(images):
         readme = file.readlines()
     lastfm_line_index = readme.index('<!-- lastfm -->\n') + 1
     lastfm_line = '<p align="center">'
+    i = 0
     for img in images:
-        print(img[0])
-        print(img[1])
-        if (requests.get(img[2]).status_code == 200):
-            lastfm_line = lastfm_line + '<img src="' + img[2] + '" title="' + img[0] + ' - ' + img[1] + '"> '
-            # lastfm_line = lastfm_line + '![' + img[0] + ' - ' + img[1] + '](' + img[2] + ') '
+        if (i < (int(os.getenv('IMAGE_COUNT')) + 1)):
+            if (requests.get(img[2]).status_code == 200):
+                lastfm_line = lastfm_line + '<img src="' + img[2] + '" title="' + img[0] + ' - ' + img[1] + '"> '
+                # lastfm_line = lastfm_line + '![' + img[0] + ' - ' + img[1] + '](' + img[2] + ') '
+                i = i + 1
+            else:
+                pass
         else:
-            pass
+            break
     if (readme[lastfm_line_index] == lastfm_line):
         sys.exit(0)
     else:
