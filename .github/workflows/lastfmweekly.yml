@@ -28,6 +28,7 @@ jobs:
         env:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: ${{ secrets.LASTFM_USER }}
+          IMAGE_COUNT: 5
         run: python lastfm.py
 
       - name: commit changes
