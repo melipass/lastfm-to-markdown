@@ -1,5 +1,7 @@
 # last.fm to markdown
 
+![banner](banner.png)
+
 ## 🤖 About this repo
 This is a small project that I started because I wanted to have my last.fm weekly chart on my GitHub profile. I used GitHub Actions because they can be scheduled with cron jobs and you won't need to pass any sensitive information to modify the README.md file.
 
