@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/76daa18638a94c5f81c0990454655584.png" title="Flobots - Survival Story"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/b308b16abe6a47c28be712fa5416c75f.jpg" title="Flica - Telepathy Dreams"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/347730a9e75c48f8b4c3fd9e09dd4c78.png" title="Flobots - Fight With Tools"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/94f945f8892a45729a53ad76bbd7db52.jpg" title="Flobots - Platypus"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/9200892f8e5731de0f5052433d286345.jpg" title="Hayley Williams - Petals for Armor"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/76daa18638a94c5f81c0990454655584.png" title="Flobots - Survival Story"> </p>
 
           
 ## 👩🏽‍💻 What you'll need
