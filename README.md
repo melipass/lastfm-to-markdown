@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/76daa18638a94c5f81c0990454655584.png" title="Flobots - Survival Story"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/76daa18638a94c5f81c0990454655584.png" title="Flobots - Survival Story"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/46def4fa25d2821f092448be01e639ea.png" title="Florence + the Machine - Lungs"> </p>
 
           
 ## 👩🏽‍💻 What you'll need
