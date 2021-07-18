@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/96f7f1c340b277238bc8ca3c8b7fc457.jpg" title="Florence + the Machine - How Big, How Blue, How Beautiful"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/46def4fa25d2821f092448be01e639ea.png" title="Florence + the Machine - Lungs"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/4debc202c28fa0d4adeefef568786432.png" title="Florence + the Machine - Ceremonials"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/ad20fc22f42ef2fdae2fc99273f9f01f.png" title="Florence + the Machine - High as Hope"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/96f7f1c340b277238bc8ca3c8b7fc457.jpg" title="Florence + the Machine - How Big, How Blue, How Beautiful"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/46def4fa25d2821f092448be01e639ea.png" title="Florence + the Machine - Lungs"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/4debc202c28fa0d4adeefef568786432.png" title="Florence + the Machine - Ceremonials"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/8ba9c92901b94bd7ba5fceda9f595d5a.jpg" title="Dum Dum Girls - Only in Dreams"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/ad20fc22f42ef2fdae2fc99273f9f01f.png" title="Florence + the Machine - High as Hope"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/5f4e88dde3d1480bc8bb4ce07568513e.jpg" title="Flica - Weekendary"> </p>
 
           
 ## 👩🏽‍💻 What you'll need
