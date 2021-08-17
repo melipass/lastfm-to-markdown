@@ -34,7 +34,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: lastfm to markdown
-        uses: melipass/lastfm-to-markdown@v1.2
+        uses: melipass/lastfm-to-markdown@v1.3
         with:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: ${{ secrets.LASTFM_USER }}
