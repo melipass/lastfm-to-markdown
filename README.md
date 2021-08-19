@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b7498614ca565faaa2704654b638024e.png" title="Frank Ocean - Blonde"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/d8cd54c758d1a52cb75b72da7cad2f8c.jpg" title="Frank Ocean - Endless"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/553678d27570452839aec0fd0cdadd63.png" title="Frank Ocean - channel ORANGE"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/c5bed07ff1ae0eb38dc9d6c8b6b96ddc.jpg" title="JPEGMAFIA - THE GHOST~POP TAPE"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b7498614ca565faaa2704654b638024e.png" title="Frank Ocean - Blonde"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/d8cd54c758d1a52cb75b72da7cad2f8c.jpg" title="Frank Ocean - Endless"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/b90c87b587d44abab5f3895a868e1a13.jpg" title="Frank Turner - Love Ire & Song"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/abccd4044fac4ec697b05d7eb920e914.png" title="Frank Sinatra - In the Wee Small Hours"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/c5bed07ff1ae0eb38dc9d6c8b6b96ddc.jpg" title="JPEGMAFIA - THE GHOST~POP TAPE"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/553678d27570452839aec0fd0cdadd63.png" title="Frank Ocean - channel ORANGE"> </p>
 
           
 ## 👩🏽‍💻 What you'll need
