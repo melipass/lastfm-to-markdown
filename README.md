@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/996a3f46b6494165b4cec60776509d15.png" title="Franz Ferdinand - You Could Have It So Much Better"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/6f76d535e0c2203430fdc5fa8d941f6a.png" title="Franz Ferdinand - Tonight: Franz Ferdinand"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/d626440881e69e85f9cdc8f45d710fa9.jpg" title="Franz Ferdinand - Franz Ferdinand"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/757853d6e95841108b274dcb2c85cc41.png" title="Franz Ferdinand - Right Thoughts, Right Words, Right Action"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/4613d2feb784459d925d36981422b870.jpg" title="Fela Kuti - Roforofo Fight"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6f76d535e0c2203430fdc5fa8d941f6a.png" title="Franz Ferdinand - Tonight: Franz Ferdinand"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/757853d6e95841108b274dcb2c85cc41.png" title="Franz Ferdinand - Right Thoughts, Right Words, Right Action"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/4613d2feb784459d925d36981422b870.jpg" title="Fela Kuti - Roforofo Fight"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/c44bc705ed7349fe8f201d97ec574c30.jpg" title="Fela Kuti - Expensive Shit"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/996a3f46b6494165b4cec60776509d15.png" title="Franz Ferdinand - You Could Have It So Much Better"> </p>
 
           
 ## 👩🏽‍💻 What you'll need
