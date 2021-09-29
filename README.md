@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/2194c25f72a4d2dd5ef7fcc7025e8e7b.png" title="Gang of Four - Entertainment!"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/79c75e7536714fde89e6a040e35a91c8.png" title="Galaxie 500 - This Is Our Music"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/db381b8173924aec829f426a96a7e9b5.png" title="Gang of Four - Solid Gold"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/2240e89751f449f7bf87800c18a30ce6.png" title="Galaxie 500 - On Fire"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/2194c25f72a4d2dd5ef7fcc7025e8e7b.png" title="Gang of Four - Entertainment!"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/db381b8173924aec829f426a96a7e9b5.png" title="Gang of Four - Solid Gold"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/79c75e7536714fde89e6a040e35a91c8.png" title="Galaxie 500 - This Is Our Music"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/a08d6a4ffd7a419289e3cb07139a15c0.png" title="Gang of Four - Songs of the Free"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/2240e89751f449f7bf87800c18a30ce6.png" title="Galaxie 500 - On Fire"> </p>
 
           
 ## 👩🏽‍💻 What you'll need
