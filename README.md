@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/04b5bf0daa0c45648b279239c5e36ec7.png" title="Gary Numan - Telekon"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/1bb18013204740b2aa4d0fa6db8f53c6.png" title="Gatekeeper - Giza"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/8860bfd3ea86680bac8cb2decae33f06.jpg" title="Michael Jackson - Bad"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/1e330f1bb7b54fbe9cac626fa7aa1a9a.jpg" title="Gauntlet Hair - Gauntlet Hair"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/04b5bf0daa0c45648b279239c5e36ec7.png" title="Gary Numan - Telekon"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/1bb18013204740b2aa4d0fa6db8f53c6.png" title="Gatekeeper - Giza"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/1e330f1bb7b54fbe9cac626fa7aa1a9a.jpg" title="Gauntlet Hair - Gauntlet Hair"> </p>
 
           
 ## 👩🏽‍💻 What you'll need
