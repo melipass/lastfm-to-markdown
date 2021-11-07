@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d4e731bf7b4d558ab985d335b55349a9.jpg" title="Gacharic Spin - 確実変動 -KAKUHEN-"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/c9f38c961f3cffd68afc114046665371.jpg" title="Gacharic Spin - MUSIC BATTLER"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/61e5e6db31b440bcb52d2b6d6cf8dd9a.png" title="X JAPAN - The Last Live"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1edfd465e2c6d85950625add8f9f0ceb.png" title="Genesis - The Lamb Lies Down on Broadway"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/d4e731bf7b4d558ab985d335b55349a9.jpg" title="Gacharic Spin - 確実変動 -KAKUHEN-"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/61e5e6db31b440bcb52d2b6d6cf8dd9a.png" title="X JAPAN - The Last Live"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/c9f38c961f3cffd68afc114046665371.jpg" title="Gacharic Spin - MUSIC BATTLER"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/bdf358a48437f28e7c870089ff911296.png" title="Genesis - Nursery Cryme"> </p>
 
           
 ## 👩🏽‍💻 What you'll need
