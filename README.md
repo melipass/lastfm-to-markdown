@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/ee96e6a12a7f454998d3b320aeb2ecc3.png" title="Groove Armada - Goodbye Country (Hello Nightclub)"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/1fafeda431d24612c6b5fd3ba1e0ad3f.jpg" title="Buena Vista Social Club - Lost and Found"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/71ec3db6f887348e1b98bdfe1fb49018.jpg" title="Green Day - BBC Sessions"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/3192a82d2dc99bc42d9fa9dd02f280e4.jpg" title="Green Day - Woodstock 1994"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/19ac07537e21e1bad10947ea53878f1c.jpg" title="Green Day - Bullet in a Bible"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/2248e72411992639ffa8ab94ba97a631.jpg" title="Green Day - Dookie"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/ee96e6a12a7f454998d3b320aeb2ecc3.png" title="Groove Armada - Goodbye Country (Hello Nightclub)"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/1fafeda431d24612c6b5fd3ba1e0ad3f.jpg" title="Buena Vista Social Club - Lost and Found"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/a33c4a6f8d3b4571a820d7e9d47d915a.png" title="Beastie Boys - Hello Nasty"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/3192a82d2dc99bc42d9fa9dd02f280e4.jpg" title="Green Day - Woodstock 1994"> </p>
 
           
 ## 👩🏽‍💻 What you'll need
