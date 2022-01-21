@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d9c0e65ca20d086af5a087a9d1b1b99b.jpg" title="Gufi - Corazón d' Roto"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/1f64bb6f272dee7ffda769bd20304342.png" title="The Gun Club - Fire of Love"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/7098faeeba40a168cea952f95204a89a.jpg" title="Björk - Debut"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/04fbb96494d648d6c256193032883779.jpg" title="Los Tres - Se Remata el Siglo"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/e415585c828fc8a5bf0eabdb94b84893.jpg" title="Guerilla Toss - Twisted Crystal"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1f64bb6f272dee7ffda769bd20304342.png" title="The Gun Club - Fire of Love"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/7098faeeba40a168cea952f95204a89a.jpg" title="Björk - Debut"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/04fbb96494d648d6c256193032883779.jpg" title="Los Tres - Se Remata el Siglo"> </p>
 
           
 ## 👩🏽‍💻 What you'll need
