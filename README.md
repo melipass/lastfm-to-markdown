@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3c7c39f1dcdc011cffe81542abf644e8.jpg" title="The Gun Club - Miami"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f9456d3a4efa4e34a67c4fe74664f201.png" title="The Gun Club - The Las Vegas Story"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/7098faeeba40a168cea952f95204a89a.jpg" title="Björk - Debut"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3c7c39f1dcdc011cffe81542abf644e8.jpg" title="The Gun Club - Miami"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f9456d3a4efa4e34a67c4fe74664f201.png" title="The Gun Club - The Las Vegas Story"> </p>
 
           
 ## 👩🏽‍💻 What you'll need
