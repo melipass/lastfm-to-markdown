@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3c7c39f1dcdc011cffe81542abf644e8.jpg" title="The Gun Club - Miami"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/dbb8d45e500042dab7de9e1c651250f4.png" title="The Gun Club - Mother Juno"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f9456d3a4efa4e34a67c4fe74664f201.png" title="The Gun Club - The Las Vegas Story"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/dbb8d45e500042dab7de9e1c651250f4.png" title="The Gun Club - Mother Juno"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/5196120dec2446b840ca061ed819f300.jpg" title="Avril Lavigne - Let Go"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/a0beb5604cbf4731ae6856863b82761a.png" title="Avril Lavigne - Under My Skin"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f9456d3a4efa4e34a67c4fe74664f201.png" title="The Gun Club - The Las Vegas Story"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/78388f395c78e5b6c5db6be5ac1d0a18.jpg" title="Aventura - God's Project"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/9442ac02cd8f4392b3842ed22428e590.png" title="The Gun Club - Pastoral Hide and Seek"> </p>
 
           
 ## 👩🏽‍💻 What you'll need
