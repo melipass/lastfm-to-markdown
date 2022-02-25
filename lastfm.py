@@ -45,7 +45,10 @@ def update_readme(images):
     for img in images:
         if (i < int(os.getenv('IMAGE_COUNT'))):
             if (requests.get(img[2]).status_code == 200):
-                lastfm_line = lastfm_line + '<img src="' + img[2] + '" title="' + img[0] + ' - ' + img[1] + '"> '
+                if not os.getenv('INCLUDE_LINK'):
+                    lastfm_line += f'<img src="{img[2]}" title="{img[0]} - {img[1]}"> '
+                else:
+                    lastfm_line += f'<a href="{img[3]}"><img src="{img[2]}" title="{img[0]} - {img[1]}"></a> '
                 # lastfm_line = lastfm_line + '![' + img[0] + ' - ' + img[1] + '](' + img[2] + ') '
                 i = i + 1
             else:
