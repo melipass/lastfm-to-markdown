@@ -28,9 +28,11 @@ def get_album_covers(artist_and_album):
         payload = {'method': 'album.getinfo',
                    'artist': album[0],
                    'album': album[1]}
-        url = lastfm_request(payload).json()['album']['image'][1]['#text']
+        request_response = lastfm_request(payload).json()
+        url = request_response['album']['image'][1]['#text']
+        link_to_album = request_response['album']['url']
         if (url != ''):
-            images.append([album[0], album[1], url])
+            images.append([album[0], album[1], url, link_to_album])
     return images
 
 
