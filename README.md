@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c0f9d3ec8ef14b69cbd3f6ad5cfc7ebe.jpg" title="The Herbaliser - Very Mercenary"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/ef5ea289642f45939fbd09fe2f3ed0af.png" title="Helios - Eingya"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/71f9af7255884e2ea89fbaaf759f1962.jpg" title="Hercules and Love Affair - Hercules And Love Affair"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/df792a0746744a928cfd583cfe8bd7ad.png" title="Hercules and Love Affair - Blue Songs"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c0f9d3ec8ef14b69cbd3f6ad5cfc7ebe.jpg" title="The Herbaliser - Very Mercenary"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/71f9af7255884e2ea89fbaaf759f1962.jpg" title="Hercules and Love Affair - Hercules And Love Affair"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/ef5ea289642f45939fbd09fe2f3ed0af.png" title="Helios - Eingya"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/df792a0746744a928cfd583cfe8bd7ad.png" title="Hercules and Love Affair - Blue Songs"> </p>
 
           
 ## 👩🏽‍💻 What you'll need
