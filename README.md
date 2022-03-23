@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/cdbdd328cdaa4fefcf0f37e490f29c26.png" title="Javiera Mena - Otra Era"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/bbc86524f7e514b5972e7543d7dbc7b8.jpg" title="Javiera Mena - Mena"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/cdbdd328cdaa4fefcf0f37e490f29c26.png" title="Javiera Mena - Otra Era"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/bbc86524f7e514b5972e7543d7dbc7b8.jpg" title="Javiera Mena - Mena"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/9196a46c5993ae2bf86ec10487dcdb90.jpg" title="Ashnikko - DEMIDEVIL"> </p>
 
           
 ## 👩🏽‍💻 What you'll need
