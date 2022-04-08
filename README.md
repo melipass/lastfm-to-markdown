@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a21d06762b474e5ecec50916715ecfa3.png" title="Milton Nascimento & Lô Borges - Clube Da Esquina"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/d0f3bafffecf42fcb53ea38c9dbed6a1.jpg" title="The Herbaliser Band - Session 2"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/2362aacacd87ed77bda7cacbcab34155.jpg" title="The Herbaliser Band - Session One"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f9a158a88c169bb31fea3b83f3704d1c.jpg" title="Faith No More - Angel Dust"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a21d06762b474e5ecec50916715ecfa3.png" title="Milton Nascimento & Lô Borges - Clube Da Esquina"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/efe85e4b28614817c83f4f272f4b2cb3.png" title="Hercules and Love Affair - The Feast of the Broken Heart"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f9a158a88c169bb31fea3b83f3704d1c.jpg" title="Faith No More - Angel Dust"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/71f9af7255884e2ea89fbaaf759f1962.jpg" title="Hercules and Love Affair - Hercules And Love Affair"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/d0f3bafffecf42fcb53ea38c9dbed6a1.jpg" title="The Herbaliser Band - Session 2"> </p>
 
           
 ## 👩🏽‍💻 What you'll need
