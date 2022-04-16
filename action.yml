@@ -17,6 +17,11 @@ inputs:
     required: false
     default: '10'
 
+  INCLUDE_LINK:
+    description: 'Include a link to the album on Last.fm.'
+    required: false
+    default: false
+
 runs:
   using: 'composite'
   steps:
@@ -24,6 +29,7 @@ runs:
         LASTFM_API_KEY: ${{ inputs.LASTFM_API_KEY }}
         LASTFM_USER: ${{ inputs.LASTFM_USER }}
         IMAGE_COUNT: ${{ inputs.IMAGE_COUNT }}
+        INCLUDE_LINK: ${{ inputs.INCLUDE_LINK }}
       run: python ${{ github.action_path }}/lastfm.py
       shell: bash
       

@@ -28,9 +28,11 @@ def get_album_covers(artist_and_album):
         payload = {'method': 'album.getinfo',
                    'artist': album[0],
                    'album': album[1]}
-        url = lastfm_request(payload).json()['album']['image'][1]['#text']
+        request_response = lastfm_request(payload).json()
+        url = request_response['album']['image'][1]['#text']
+        link_to_album = request_response['album']['url']
         if (url != ''):
-            images.append([album[0], album[1], url])
+            images.append([album[0], album[1], url, link_to_album])
     return images
 
 
@@ -43,7 +45,10 @@ def update_readme(images):
     for img in images:
         if (i < int(os.getenv('IMAGE_COUNT'))):
             if (requests.get(img[2]).status_code == 200):
-                lastfm_line = lastfm_line + '<img src="' + img[2] + '" title="' + img[0] + ' - ' + img[1] + '"> '
+                if os.getenv('INCLUDE_LINK') == 'false':
+                    lastfm_line += f'<img src="{img[2]}" title="{img[0]} - {img[1]}"> '
+                else:
+                    lastfm_line += f'<a href="{img[3]}"><img src="{img[2]}" title="{img[0]} - {img[1]}"></a> '
                 # lastfm_line = lastfm_line + '![' + img[0] + ' - ' + img[1] + '](' + img[2] + ') '
                 i = i + 1
             else:

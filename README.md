@@ -38,6 +38,7 @@ jobs:
         with:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: ${{ secrets.LASTFM_USER }}
+#         INCLUDE_LINK: true # Optional. Defaults is false. If you want to include the link to the album page, set this to true.
 #         IMAGE_COUNT: 6 # Optional. Defaults to 10. Feel free to remove this line if you want.
       - name: commit changes
         continue-on-error: true
