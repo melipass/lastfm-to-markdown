@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Hercules+and+Love+Affair/Omnion"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3982bfa03e1e9b6ddc34ed3cd62a7906.jpg" title="Hercules and Love Affair - Omnion"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Hercules+and+Love+Affair/Omnion"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3982bfa03e1e9b6ddc34ed3cd62a7906.jpg" title="Hercules and Love Affair - Omnion"></a> <a href="https://www.last.fm/music/Hey+Paulette/long+ball+into+nowhere"><img src="https://lastfm.freetls.fastly.net/i/u/64s/e385c32828a5e8b099e57d59f1e1d3c3.jpg" title="Hey Paulette - long ball into nowhere"></a> <a href="https://www.last.fm/music/Hey+Paulette/I+Really+Do+Love+Penelope"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4d533a269582411ea5958b642013bd9d.jpg" title="Hey Paulette - I Really Do Love Penelope"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
