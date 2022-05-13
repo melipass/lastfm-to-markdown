@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/Hiromi/Voice"><img src="https://lastfm.freetls.fastly.net/i/u/64s/152cdc5edb1b4de296d192d79d256122.jpg" title="Hiromi - Voice"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
