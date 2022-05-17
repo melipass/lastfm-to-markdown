@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Hiromi/Voice"><img src="https://lastfm.freetls.fastly.net/i/u/64s/152cdc5edb1b4de296d192d79d256122.jpg" title="Hiromi - Voice"></a> <a href="https://www.last.fm/music/Hiromi/Move"><img src="https://lastfm.freetls.fastly.net/i/u/64s/842bb3b77fd3465395593fca14f7d8cb.jpg" title="Hiromi - Move"></a> <a href="https://www.last.fm/music/Hiromi/Alive"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f538bbb061af4f91cf156229bcedc34f.jpg" title="Hiromi - Alive"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Hiromi/Voice"><img src="https://lastfm.freetls.fastly.net/i/u/64s/152cdc5edb1b4de296d192d79d256122.jpg" title="Hiromi - Voice"></a> <a href="https://www.last.fm/music/Hiromi/Move"><img src="https://lastfm.freetls.fastly.net/i/u/64s/842bb3b77fd3465395593fca14f7d8cb.jpg" title="Hiromi - Move"></a> <a href="https://www.last.fm/music/Hiromi/Alive"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f538bbb061af4f91cf156229bcedc34f.jpg" title="Hiromi - Alive"></a> <a href="https://www.last.fm/music/Hiromi/Spark"><img src="https://lastfm.freetls.fastly.net/i/u/64s/137a755c1378cf87fc17e0d2476d961b.jpg" title="Hiromi - Spark"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
