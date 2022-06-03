@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Charles+Mingus/Mingus+Ah+Um"><img src="https://lastfm.freetls.fastly.net/i/u/64s/bb95a707719645438c999b700d4d1633.png" title="Charles Mingus - Mingus Ah Um"></a> <a href="https://www.last.fm/music/Hildur+Gu%C3%B0nad%C3%B3ttir/Leyf%C3%B0u+Lj%C3%B3sinu"><img src="https://lastfm.freetls.fastly.net/i/u/64s/dbbbd80190a9814a00c30673ccfa233e.jpg" title="Hildur Guðnadóttir - Leyfðu Ljósinu"></a> <a href="https://www.last.fm/music/The+Go-Betweens/Liberty+Belle+and+the+Black+Diamond+Express"><img src="https://lastfm.freetls.fastly.net/i/u/64s/9198d7af00f040cc9c6e44de76c0a5bd.png" title="The Go-Betweens - Liberty Belle and the Black Diamond Express"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Charles+Mingus/Mingus+Ah+Um"><img src="https://lastfm.freetls.fastly.net/i/u/64s/bb95a707719645438c999b700d4d1633.png" title="Charles Mingus - Mingus Ah Um"></a> <a href="https://www.last.fm/music/Hildur+Gu%C3%B0nad%C3%B3ttir/Leyf%C3%B0u+Lj%C3%B3sinu"><img src="https://lastfm.freetls.fastly.net/i/u/64s/dbbbd80190a9814a00c30673ccfa233e.jpg" title="Hildur Guðnadóttir - Leyfðu Ljósinu"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
