@@ -30,7 +30,7 @@ def get_album_covers(artist_and_album):
                    "artist": album[0],
                    "album": album[1]}
         request_response = lastfm_request(payload).json()
-        url = request_response["album"]["image"][int(os.getenv("IMAGE_SIZE"))]["#text"]
+        url = request_response["album"]["image"][2]["#text"] """ this would be "[2] medium" instead of "[1] small" since readers wouldn't be able to make this out """
         link_to_album = request_response["album"]["url"]
         if (url != ""):
             images.append([album[0], album[1], url, link_to_album]) 
@@ -55,6 +55,7 @@ def update_readme(images):
                 my_image = Image.open(f"./album-covers/album-cover_{i}.png")  
                 image_editable = ImageDraw.Draw(my_image) 
                 image_editable.text((1,1), f"{img[0]}\n{img[1]}", (252, 255, 250), font=ImageFont.truetype("./fonts/basic_sans_serif_7.ttf", 10)) 
+                """ Locally download basic_sans_serif_7.ttf into /fonts/ directory for usage """
                 my_image.save(f"./album-covers-finished/album-cover_final_{i}.png")
                 
                 lastfm_line += f'<a href="{img[3]}"><img src="./album-covers-finished/album-cover_final_{i}.png" title="{img[0]} - {img[1]}"></a> '
