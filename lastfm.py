@@ -61,15 +61,15 @@ def update_readme(images):
                 my_image = Image.open(f"./album-covers/album-cover_{i}.png")  
  
                 W, H = my_image.size
-                image_editable = ImageDraw.Draw(my_image) 
+                image_editable = ImageDraw.Draw(my_image, "RGBA") 
                 w, h = image_editable.textsize(img[0] + "\n" + img[1])
                 bbox = image_editable.textbbox(((W - w) / 2, (H - h) - 10), img[0] + "\n" + img[1], font=ImageFont.truetype("./fonts/arial-unicode-ms.ttf", 12), spacing=1, align="center")
 
                 if (get_avg_img_color(f"./album-covers/album-cover_{i}.png") == "dark"):
-                    image_editable.rounded_rectangle(bbox, fill=(0, 0, 0), radius=1)
+                    image_editable.rounded_rectangle(bbox, fill=(0, 0, 0, 174), radius=1)
                     image_editable.text(((W - w) / 2, (H - h) - 10), img[0] + "\n" + img[1], (239, 235, 239), font=ImageFont.truetype("./fonts/arial-unicode-ms.ttf", 12), spacing=1, align="center") 
                 else:
-                    image_editable.rounded_rectangle(bbox, fill=(239, 235, 239), radius=1)
+                    image_editable.rounded_rectangle(bbox, fill=(239, 235, 239, 174), radius=1)
                     image_editable.text(((W - w) / 2, (H - h) - 10), img[0] + "\n" + img[1], (0, 0, 0), font=ImageFont.truetype("./fonts/arial-unicode-ms.ttf", 12), spacing=1, align="center") 
                 
                 """ Locally download arial-unicode-ms.ttf into /fonts/ directory for usage """
