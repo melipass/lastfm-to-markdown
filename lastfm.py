@@ -3,6 +3,8 @@ import sys
 from PIL import Image, ImageFont, ImageDraw 
 import urllib.request
 import os
+import imageio
+import numpy as np
 
 def lastfm_request(payload):
     headers = {"user-agent": os.getenv("LASTFM_USER")}
@@ -30,12 +32,16 @@ def get_album_covers(artist_and_album):
                    "artist": album[0],
                    "album": album[1]}
         request_response = lastfm_request(payload).json()
-        url = request_response["album"]["image"][2]["#text"] """ this would be "[2] medium" instead of "[1] small" since readers wouldn't be able to make this out """
+        url = request_response["album"]["image"][int(os.getenv("IMAGE_SIZE"))]["#text"]
         link_to_album = request_response["album"]["url"]
         if (url != ""):
             images.append([album[0], album[1], url, link_to_album]) 
     return images
 
+def get_avg_img_color(image):
+    img_src = imageio.v2.imread(image, as_gray=True) 
+    is_light = np.mean(img_src) > 127
+    return "light" if is_light else "dark"
 
 def update_readme(images):
     with open("README.md", "r", encoding="utf-8") as file:
@@ -53,9 +59,21 @@ def update_readme(images):
 
                 urllib.request.urlretrieve(img[2], f"./album-covers/album-cover_{i}.png")
                 my_image = Image.open(f"./album-covers/album-cover_{i}.png")  
+ 
+                W, H = my_image.size
                 image_editable = ImageDraw.Draw(my_image) 
-                image_editable.text((1,1), f"{img[0]}\n{img[1]}", (252, 255, 250), font=ImageFont.truetype("./fonts/basic_sans_serif_7.ttf", 10)) 
-                """ Locally download basic_sans_serif_7.ttf into /fonts/ directory for usage """
+                w, h = image_editable.textsize(img[0] + "\n" + img[1])
+                bbox = image_editable.textbbox(((W - w) / 2, (H - h) - 10), img[0] + "\n" + img[1], font=ImageFont.truetype("./fonts/arial-unicode-ms.ttf", 12), spacing=1, align="center")
+
+                if (get_avg_img_color(f"./album-covers/album-cover_{i}.png") == "dark"):
+                    image_editable.rounded_rectangle(bbox, fill=(0, 0, 0), radius=1)
+                    image_editable.text(((W - w) / 2, (H - h) - 10), img[0] + "\n" + img[1], (239, 235, 239), font=ImageFont.truetype("./fonts/arial-unicode-ms.ttf", 12), spacing=1, align="center") 
+                else:
+                    image_editable.rounded_rectangle(bbox, fill=(239, 235, 239), radius=1)
+                    image_editable.text(((W - w) / 2, (H - h) - 10), img[0] + "\n" + img[1], (0, 0, 0), font=ImageFont.truetype("./fonts/arial-unicode-ms.ttf", 12), spacing=1, align="center") 
+                
+                """ Locally download arial-unicode-ms.ttf into /fonts/ directory for usage """
+
                 my_image.save(f"./album-covers-finished/album-cover_final_{i}.png")
                 
                 lastfm_line += f'<a href="{img[3]}"><img src="./album-covers-finished/album-cover_final_{i}.png" title="{img[0]} - {img[1]}"></a> '
