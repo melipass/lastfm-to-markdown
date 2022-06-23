@@ -1,16 +1,16 @@
-# last.fm to markdown
+# lastfm-to-markdown
 
 ![banner](banner.png)
 
-## 🤖 About this repo
-This is a small project that I started because I wanted to have my last.fm weekly chart on my GitHub profile. I used GitHub Actions because they can be scheduled with cron jobs and you won't need to pass any sensitive information to modify the README.md file.
+## 🤖 About This Repository
+This is a small project that I forked and edited from user [**melipass**'s original code](https://github.com/melipass/lastfm-to-markdown) because I wanted to have my last.fm weekly chart on my GitHub profile. I used GitHub Actions because they can be scheduled with cron jobs and you won't need to pass any sensitive information to modify the README.md file.
 
-## 🎵 Example output, automatically updated every day
+## 🎵 Example Output, Automatically Updated Daily
 <!-- lastfm -->
 <p align="center"><a href="https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha"><img src="./album-covers-finished/album-cover_final_0.png" title="C418 - Minecraft - Volume Alpha"></a> <a href="https://www.last.fm/music/The+Beatles/The+Beatles"><img src="./album-covers-finished/album-cover_final_1.png" title="The Beatles - The Beatles"></a> <a href="https://www.last.fm/music/Captain+Beefheart+&+His+Magic+Band/Trout+Mask+Replica"><img src="./album-covers-finished/album-cover_final_2.png" title="Captain Beefheart & His Magic Band - Trout Mask Replica"></a> <a href="https://www.last.fm/music/C418/Minecraft+-+Volume+Beta"><img src="./album-covers-finished/album-cover_final_3.png" title="C418 - Minecraft - Volume Beta"></a> <a href="https://www.last.fm/music/Aphex+Twin/Selected+Ambient+Works+85-92"><img src="./album-covers-finished/album-cover_final_4.png" title="Aphex Twin - Selected Ambient Works 85-92"></a> <a href="https://www.last.fm/music/Bj%C3%B6rk/Vespertine"><img src="./album-covers-finished/album-cover_final_5.png" title="Björk - Vespertine"></a> <a href="https://www.last.fm/music/Pink+Floyd/Live+at+Pompeii"><img src="./album-covers-finished/album-cover_final_6.png" title="Pink Floyd - Live at Pompeii"></a> <a href="https://www.last.fm/music/Steely+Dan/Aja"><img src="./album-covers-finished/album-cover_final_7.png" title="Steely Dan - Aja"></a> </p>
 
           
-## 👩🏽‍💻 What you'll need
+## 🖥 What You'll Need
 * A README.md file.
 * Last.fm API key
   * Fill [this form](https://www.last.fm/api/account/create) to instantly get one. Requires a last.fm account.
@@ -72,6 +72,5 @@ jobs:
 ```
 The cron job is scheduled to run once a day because Last.fm's API updates weekly chart data daily at 00:00, it's useless to make more than 1 request per day because you'll get the same information back every time. You can manually run the workflow in case Last.fm's API was down at the time, going to the Actions tab in your repository.
 
-## 🚧 To do
-* Allow users to choose the image size for the album covers.
+## 🚧 To-Do
 * Feel free to open an issue or send a pull request for anything you believe would be useful.
