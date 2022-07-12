@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Hope+Sandoval+&+The+Warm+Inventions/Until+the+Hunter"><img src="https://lastfm.freetls.fastly.net/i/u/64s/0bb18b2250fa527a3a7dfb78dbf97e91.jpg" title="Hope Sandoval & The Warm Inventions - Until the Hunter"></a> <a href="https://www.last.fm/music/The+Horrors/Primary+Colours"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f492573478814e8c82d1302bfcda3138.png" title="The Horrors - Primary Colours"></a> <a href="https://www.last.fm/music/The+Horrors/Strange+House"><img src="https://lastfm.freetls.fastly.net/i/u/64s/79d7f5d9e656452badd53b46ca48e1ad.png" title="The Horrors - Strange House"></a> <a href="https://www.last.fm/music/The+Horrors/Skying"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1701ff3277f94c22b1405948bb341052.jpg" title="The Horrors - Skying"></a> <a href="https://www.last.fm/music/Hope+Sandoval+&+The+Warm+Inventions/Through+The+Devil+Softly"><img src="https://lastfm.freetls.fastly.net/i/u/64s/be125796a3c548ceb581d8db2b9dd95b.png" title="Hope Sandoval & The Warm Inventions - Through The Devil Softly"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/The+Horrors/Skying"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1701ff3277f94c22b1405948bb341052.jpg" title="The Horrors - Skying"></a> <a href="https://www.last.fm/music/The+Horrors/Strange+House"><img src="https://lastfm.freetls.fastly.net/i/u/64s/79d7f5d9e656452badd53b46ca48e1ad.png" title="The Horrors - Strange House"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
