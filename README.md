@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Hot+Chip/One+Life+Stand"><img src="https://lastfm.freetls.fastly.net/i/u/64s/eb6d150b390c728181d83e12cd8fe5a1.png" title="Hot Chip - One Life Stand"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Hot+Chip/One+Life+Stand"><img src="https://lastfm.freetls.fastly.net/i/u/64s/eb6d150b390c728181d83e12cd8fe5a1.png" title="Hot Chip - One Life Stand"></a> <a href="https://www.last.fm/music/Hot+Chip/In+Our+Heads"><img src="https://lastfm.freetls.fastly.net/i/u/64s/810073bba4aa45629108de6dc87d53bb.png" title="Hot Chip - In Our Heads"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
