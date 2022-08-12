@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/Hot+Chip/A+Bath+Full+of+Ecstasy"><img src="https://lastfm.freetls.fastly.net/i/u/64s/85e41eaa5698a41f152071b47c7cd0a8.jpg" title="Hot Chip - A Bath Full of Ecstasy"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
