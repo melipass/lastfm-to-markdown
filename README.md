@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Ibrahim+Ferrer/Buena+Vista+Social+Club+Presents+Ibrahim+Ferrer"><img src="https://lastfm.freetls.fastly.net/i/u/64s/ed9939b68baf426f8c311f1e49b7c5bc.jpg" title="Ibrahim Ferrer - Buena Vista Social Club Presents Ibrahim Ferrer"></a> <a href="https://www.last.fm/music/Ida+Maria/Fortress+%27round+My+Heart"><img src="https://lastfm.freetls.fastly.net/i/u/64s/191030860b71492d9f55772d19223398.png" title="Ida Maria - Fortress 'round My Heart"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Helios/Unomia"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b15830d455934a99bd896dc4b6664d5f.png" title="Helios - Unomia"></a> <a href="https://www.last.fm/music/Ibrahim+Ferrer/Buena+Vista+Social+Club+Presents+Ibrahim+Ferrer"><img src="https://lastfm.freetls.fastly.net/i/u/64s/ed9939b68baf426f8c311f1e49b7c5bc.jpg" title="Ibrahim Ferrer - Buena Vista Social Club Presents Ibrahim Ferrer"></a> <a href="https://www.last.fm/music/Ida+Maria/Fortress+%27round+My+Heart"><img src="https://lastfm.freetls.fastly.net/i/u/64s/191030860b71492d9f55772d19223398.png" title="Ida Maria - Fortress 'round My Heart"></a> <a href="https://www.last.fm/music/Helios/Caesura"><img src="https://lastfm.freetls.fastly.net/i/u/64s/232b695cc3434eba950ec39dcaef8707.png" title="Helios - Caesura"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
