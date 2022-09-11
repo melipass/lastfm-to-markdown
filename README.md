@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/The+Herbaliser/Blow+Your+Headphones"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c52e24f1936e63c4a5bdd9747e7249d8.jpg" title="The Herbaliser - Blow Your Headphones"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
