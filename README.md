@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Javiera+Mena/Nocturna"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b31d764d13843dbc6bf26c51ee556887.png" title="Javiera Mena - Nocturna"></a> <a href="https://www.last.fm/music/Jack+White/Blunderbuss"><img src="https://lastfm.freetls.fastly.net/i/u/64s/9dbff5e7be08d5d1e364c0e501be866b.jpg" title="Jack White - Blunderbuss"></a> <a href="https://www.last.fm/music/Javiera+Mena/Espejo"><img src="https://lastfm.freetls.fastly.net/i/u/64s/2689cde9fabc558ea81add60349096ad.jpg" title="Javiera Mena - Espejo"></a> <a href="https://www.last.fm/music/Javiera+Mena/Otra+Era"><img src="https://lastfm.freetls.fastly.net/i/u/64s/cdbdd328cdaa4fefcf0f37e490f29c26.png" title="Javiera Mena - Otra Era"></a> <a href="https://www.last.fm/music/Jack+White/Lazaretto"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d631be95305a4e90ce8fb3f6ee33baac.png" title="Jack White - Lazaretto"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Javiera+Mena/Nocturna"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b31d764d13843dbc6bf26c51ee556887.png" title="Javiera Mena - Nocturna"></a> <a href="https://www.last.fm/music/Jack+White/Blunderbuss"><img src="https://lastfm.freetls.fastly.net/i/u/64s/9dbff5e7be08d5d1e364c0e501be866b.jpg" title="Jack White - Blunderbuss"></a> <a href="https://www.last.fm/music/Jack+White/Lazaretto"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d631be95305a4e90ce8fb3f6ee33baac.png" title="Jack White - Lazaretto"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
