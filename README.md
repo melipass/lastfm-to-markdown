@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Bring+Me+the+Horizon/Live+At+The+Royal+Albert+Hall"><img src="https://lastfm.freetls.fastly.net/i/u/64s/33ec317504d57a6ddbcf1236b47f5342.jpg" title="Bring Me the Horizon - Live At The Royal Albert Hall"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/That%27s+The+Spirit"><img src="https://lastfm.freetls.fastly.net/i/u/64s/e7a508490c30452c4524f74984279698.png" title="Bring Me the Horizon - That's The Spirit"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/amo"><img src="https://lastfm.freetls.fastly.net/i/u/64s/98ac0125284c3de2af1c0a6a1ddf301f.jpg" title="Bring Me the Horizon - amo"></a> <a href="https://www.last.fm/music/Arca/KiCk+i"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f427010a793f4dccd4f8214b8c6021a2.jpg" title="Arca - KiCk i"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/Sempiternal"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b665c029fbe8489f8e6a45dde56215d4.png" title="Bring Me the Horizon - Sempiternal"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Casiopea/Casiopea"><img src="https://lastfm.freetls.fastly.net/i/u/64s/8c2442a3969afcf4aef5681d31de7909.jpg" title="Casiopea - Casiopea"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/amo"><img src="https://lastfm.freetls.fastly.net/i/u/64s/98ac0125284c3de2af1c0a6a1ddf301f.jpg" title="Bring Me the Horizon - amo"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
