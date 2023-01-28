@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Janelle+Mon%C3%A1e/The+ArchAndroid+(Suites+II+and+III)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a5ab84b1f7214178a3862961896c7c1f.png" title="Janelle Monáe - The ArchAndroid (Suites II and III)"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Janelle+Mon%C3%A1e/The+ArchAndroid+(Suites+II+and+III)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a5ab84b1f7214178a3862961896c7c1f.png" title="Janelle Monáe - The ArchAndroid (Suites II and III)"></a> <a href="https://www.last.fm/music/Janelle+Mon%C3%A1e/The+Electric+Lady"><img src="https://lastfm.freetls.fastly.net/i/u/64s/bbd80b8f9d5ee09c16f1063e27f00699.png" title="Janelle Monáe - The Electric Lady"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
