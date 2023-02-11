@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Janelle+Mon%C3%A1e/The+ArchAndroid+(Suites+II+and+III)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a5ab84b1f7214178a3862961896c7c1f.png" title="Janelle Monáe - The ArchAndroid (Suites II and III)"></a> <a href="https://www.last.fm/music/Janis+Joplin/Greatest+Hits"><img src="https://lastfm.freetls.fastly.net/i/u/64s/26cf2e294502477eb432344ed60ef136.jpg" title="Janis Joplin - Greatest Hits"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Janelle+Mon%C3%A1e/The+ArchAndroid+(Suites+II+and+III)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a5ab84b1f7214178a3862961896c7c1f.png" title="Janelle Monáe - The ArchAndroid (Suites II and III)"></a> <a href="https://www.last.fm/music/Janis+Joplin/Greatest+Hits"><img src="https://lastfm.freetls.fastly.net/i/u/64s/26cf2e294502477eb432344ed60ef136.jpg" title="Janis Joplin - Greatest Hits"></a> <a href="https://www.last.fm/music/Japandroids/Celebration+Rock"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a8718e11c970d7f25e3a5abf363298cf.jpg" title="Japandroids - Celebration Rock"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
