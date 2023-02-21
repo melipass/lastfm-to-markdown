@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Japandroids/Post-Nothing"><img src="https://lastfm.freetls.fastly.net/i/u/64s/e23c0e495c7a4de7a7261a35743f59c2.png" title="Japandroids - Post-Nothing"></a> </p>
+<p align="center"></p>
 
           
 ## 👩🏽‍💻 What you'll need
