@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/Deafheaven/Infinite+Granite"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6f8258cdca8879915ccf7fd0043863de.jpg" title="Deafheaven - Infinite Granite"></a> <a href="https://www.last.fm/music/Deafheaven/Sunbather"><img src="https://lastfm.freetls.fastly.net/i/u/64s/8a6a1123bb124e4890f20c956a63e734.png" title="Deafheaven - Sunbather"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
