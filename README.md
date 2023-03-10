@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Deafheaven/Infinite+Granite"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6f8258cdca8879915ccf7fd0043863de.jpg" title="Deafheaven - Infinite Granite"></a> <a href="https://www.last.fm/music/Deafheaven/Sunbather"><img src="https://lastfm.freetls.fastly.net/i/u/64s/8a6a1123bb124e4890f20c956a63e734.png" title="Deafheaven - Sunbather"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Deafheaven/Infinite+Granite"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6f8258cdca8879915ccf7fd0043863de.jpg" title="Deafheaven - Infinite Granite"></a> <a href="https://www.last.fm/music/Deafheaven/Sunbather"><img src="https://lastfm.freetls.fastly.net/i/u/64s/8a6a1123bb124e4890f20c956a63e734.png" title="Deafheaven - Sunbather"></a> <a href="https://www.last.fm/music/Deafheaven/Black+Brick"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1a5aaadf58ec51030d42d6ad83786eb6.jpg" title="Deafheaven - Black Brick"></a> <a href="https://www.last.fm/music/Deafheaven/New+Bermuda"><img src="https://lastfm.freetls.fastly.net/i/u/64s/60d9ba6c2d960a49646ccba69de73b63.jpg" title="Deafheaven - New Bermuda"></a> <a href="https://www.last.fm/music/Deafheaven/Ordinary+Corrupt+Human+Love"><img src="https://lastfm.freetls.fastly.net/i/u/64s/14499c4d27be2a70c9483f44faccdbfc.jpg" title="Deafheaven - Ordinary Corrupt Human Love"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
