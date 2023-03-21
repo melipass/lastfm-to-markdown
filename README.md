@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/twenty+one+pilots/Regional+at+Best"><img src="https://lastfm.freetls.fastly.net/i/u/64s/20a1fe31863658a168cccac6b419e99f.jpg" title="twenty one pilots - Regional at Best"></a> <a href="https://www.last.fm/music/twenty+one+pilots/Twenty+One+Pilots"><img src="https://lastfm.freetls.fastly.net/i/u/64s/045aaecd764e491c152b9346d6d02463.jpg" title="twenty one pilots - Twenty One Pilots"></a> <a href="https://www.last.fm/music/Lil+Nas+X/MONTERO"><img src="https://lastfm.freetls.fastly.net/i/u/64s/ee83cf60fac36924e4c769515774ef8c.jpg" title="Lil Nas X - MONTERO"></a> <a href="https://www.last.fm/music/Pierce+the+Veil/Collide+With+the+Sky"><img src="https://lastfm.freetls.fastly.net/i/u/64s/557643a8faaa35768cb6088f576fed30.jpg" title="Pierce the Veil - Collide With the Sky"></a> <a href="https://www.last.fm/music/Pierce+the+Veil/Misadventures"><img src="https://lastfm.freetls.fastly.net/i/u/64s/690118417d6d92950707f82b798385b8.jpg" title="Pierce the Veil - Misadventures"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/twenty+one+pilots/Regional+at+Best"><img src="https://lastfm.freetls.fastly.net/i/u/64s/20a1fe31863658a168cccac6b419e99f.jpg" title="twenty one pilots - Regional at Best"></a> <a href="https://www.last.fm/music/twenty+one+pilots/Twenty+One+Pilots"><img src="https://lastfm.freetls.fastly.net/i/u/64s/045aaecd764e491c152b9346d6d02463.jpg" title="twenty one pilots - Twenty One Pilots"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
