@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/twenty+one+pilots/Regional+at+Best"><img src="https://lastfm.freetls.fastly.net/i/u/64s/20a1fe31863658a168cccac6b419e99f.jpg" title="twenty one pilots - Regional at Best"></a> <a href="https://www.last.fm/music/twenty+one+pilots/Twenty+One+Pilots"><img src="https://lastfm.freetls.fastly.net/i/u/64s/045aaecd764e491c152b9346d6d02463.jpg" title="twenty one pilots - Twenty One Pilots"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/twenty+one+pilots/Regional+at+Best"><img src="https://lastfm.freetls.fastly.net/i/u/64s/20a1fe31863658a168cccac6b419e99f.jpg" title="twenty one pilots - Regional at Best"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
