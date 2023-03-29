@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/The+Cars/The+Cars"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a3e3bbe2194b49e2b19cfc897e36fffd.png" title="The Cars - The Cars"></a> <a href="https://www.last.fm/music/Lil+Nas+X/MONTERO"><img src="https://lastfm.freetls.fastly.net/i/u/64s/2d4c04914fe4eac2ebf5363c7dad0d0c.jpg" title="Lil Nas X - MONTERO"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/Suicide+Season"><img src="https://lastfm.freetls.fastly.net/i/u/64s/594142ef2a94491fe45bc96598bf8005.jpg" title="Bring Me the Horizon - Suicide Season"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Conan+Gray/Kid+Krow"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4f133a7c64471f91a30bf6ae80946c8c.jpg" title="Conan Gray - Kid Krow"></a> <a href="https://www.last.fm/music/The+Cars/The+Cars"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a3e3bbe2194b49e2b19cfc897e36fffd.png" title="The Cars - The Cars"></a> <a href="https://www.last.fm/music/Lil+Nas+X/MONTERO"><img src="https://lastfm.freetls.fastly.net/i/u/64s/2d4c04914fe4eac2ebf5363c7dad0d0c.jpg" title="Lil Nas X - MONTERO"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/Suicide+Season"><img src="https://lastfm.freetls.fastly.net/i/u/64s/594142ef2a94491fe45bc96598bf8005.jpg" title="Bring Me the Horizon - Suicide Season"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
