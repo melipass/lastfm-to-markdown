@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Pierce+the+Veil/The+Jaws+Of+Life+(Extended+Version)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d38c2ab64a6d3e435493dc50e85b68c9.jpg" title="Pierce the Veil - The Jaws Of Life (Extended Version)"></a> <a href="https://www.last.fm/music/Pierce+the+Veil/Selfish+Machines"><img src="https://lastfm.freetls.fastly.net/i/u/64s/2d23f6186a52429cc254acd176e75f4f.jpg" title="Pierce the Veil - Selfish Machines"></a> <a href="https://www.last.fm/music/Wu-Tang+Clan/Enter+the+Wu-Tang+(36+Chambers)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c95372b82e09e3b8f441bc6a89eeb9c1.jpg" title="Wu-Tang Clan - Enter the Wu-Tang (36 Chambers)"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Pierce+the+Veil/The+Jaws+Of+Life+(Extended+Version)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d38c2ab64a6d3e435493dc50e85b68c9.jpg" title="Pierce the Veil - The Jaws Of Life (Extended Version)"></a> <a href="https://www.last.fm/music/Pierce+the+Veil/Selfish+Machines"><img src="https://lastfm.freetls.fastly.net/i/u/64s/2d23f6186a52429cc254acd176e75f4f.jpg" title="Pierce the Veil - Selfish Machines"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
