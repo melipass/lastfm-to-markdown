@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Pierce+the+Veil/The+Jaws+Of+Life+(Extended+Version)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d38c2ab64a6d3e435493dc50e85b68c9.jpg" title="Pierce the Veil - The Jaws Of Life (Extended Version)"></a> <a href="https://www.last.fm/music/Pierce+the+Veil/Selfish+Machines"><img src="https://lastfm.freetls.fastly.net/i/u/64s/2d23f6186a52429cc254acd176e75f4f.jpg" title="Pierce the Veil - Selfish Machines"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/The+Rasmus/Dead+Letters"><img src="https://lastfm.freetls.fastly.net/i/u/64s/9f0714a59508d27c0ca151b05fa3cdce.jpg" title="The Rasmus - Dead Letters"></a> <a href="https://www.last.fm/music/Apocalyptica/Apocalyptica"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3c850bbbc8b586dcd4dbc7c6fef329d9.jpg" title="Apocalyptica - Apocalyptica"></a> <a href="https://www.last.fm/music/Pierce+the+Veil/Selfish+Machines"><img src="https://lastfm.freetls.fastly.net/i/u/64s/2d23f6186a52429cc254acd176e75f4f.jpg" title="Pierce the Veil - Selfish Machines"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
