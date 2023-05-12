@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Japanese+Breakfast/Soft+Sounds+From+Another+Planet"><img src="https://lastfm.freetls.fastly.net/i/u/64s/e3ada99d604166fa317b5d0301951de4.jpg" title="Japanese Breakfast - Soft Sounds From Another Planet"></a> <a href="https://www.last.fm/music/Fall+Out+Boy/So+Much+(for)+Stardust"><img src="https://lastfm.freetls.fastly.net/i/u/64s/46f8fabfef2e1e3a82a2a612c9c2b82c.jpg" title="Fall Out Boy - So Much (for) Stardust"></a> <a href="https://www.last.fm/music/La+Roux/La+Roux"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1f7651f0137440879580990cb31847e7.png" title="La Roux - La Roux"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Japanese+Breakfast/Soft+Sounds+From+Another+Planet"><img src="https://lastfm.freetls.fastly.net/i/u/64s/e3ada99d604166fa317b5d0301951de4.jpg" title="Japanese Breakfast - Soft Sounds From Another Planet"></a> <a href="https://www.last.fm/music/Fall+Out+Boy/So+Much+(for)+Stardust"><img src="https://lastfm.freetls.fastly.net/i/u/64s/46f8fabfef2e1e3a82a2a612c9c2b82c.jpg" title="Fall Out Boy - So Much (for) Stardust"></a> <a href="https://www.last.fm/music/La+Roux/La+Roux"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1f7651f0137440879580990cb31847e7.png" title="La Roux - La Roux"></a> <a href="https://www.last.fm/music/Ghost/Opus+Eponymous"><img src="https://lastfm.freetls.fastly.net/i/u/64s/eb0566486a274ce49b03a3c9af690a24.png" title="Ghost - Opus Eponymous"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
