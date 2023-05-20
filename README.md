@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Lady+Gaga/Born+This+Way"><img src="https://lastfm.freetls.fastly.net/i/u/64s/44900f2f1a4f5a9500a329ba8e075b32.jpg" title="Lady Gaga - Born This Way"></a> <a href="https://www.last.fm/music/The+Rasmus/Into"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b04f370329c94b89b673089d1bb3c1c1.jpg" title="The Rasmus - Into"></a> <a href="https://www.last.fm/music/The+Rasmus/Peep"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4a607723123a471bc7a979d7eae7f924.jpg" title="The Rasmus - Peep"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/The+Rasmus/Into"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b04f370329c94b89b673089d1bb3c1c1.jpg" title="The Rasmus - Into"></a> <a href="https://www.last.fm/music/The+Rasmus/Peep"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4a607723123a471bc7a979d7eae7f924.jpg" title="The Rasmus - Peep"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
