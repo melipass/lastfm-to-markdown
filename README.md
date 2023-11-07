@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/Los+Tres/La+Espada+&+la+Pared"><img src="https://lastfm.freetls.fastly.net/i/u/64s/318a8943455039ebe1ca9ec0da6ade3b.jpg" title="Los Tres - La Espada & la Pared"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
