@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Dua+Lipa/Future+Nostalgia"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1161cddbec4826e5c7d10ba3567d6ddd.png" title="Dua Lipa - Future Nostalgia"></a> <a href="https://www.last.fm/music/Los+Tres/Fome"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1b525028459bbadd64c3b2d95d3b613a.jpg" title="Los Tres - Fome"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Blur/Parklife"><img src="https://lastfm.freetls.fastly.net/i/u/64s/19e7df241eead2786c81e5f50c4f3364.png" title="Blur - Parklife"></a> <a href="https://www.last.fm/music/Blur/Leisure"><img src="https://lastfm.freetls.fastly.net/i/u/64s/55cbfe8cfee64d2c9354d06c1426c3f4.png" title="Blur - Leisure"></a> <a href="https://www.last.fm/music/Blur/The+Great+Escape"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a3e5e041b33885e07f90d5b1efd687b8.png" title="Blur - The Great Escape"></a> <a href="https://www.last.fm/music/Dua+Lipa/Future+Nostalgia"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1161cddbec4826e5c7d10ba3567d6ddd.png" title="Dua Lipa - Future Nostalgia"></a> <a href="https://www.last.fm/music/Los+Tres/Fome"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1b525028459bbadd64c3b2d95d3b613a.jpg" title="Los Tres - Fome"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
