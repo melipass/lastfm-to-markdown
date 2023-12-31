@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/Pescado+Rabioso/Artaud"><img src="https://lastfm.freetls.fastly.net/i/u/64s/04036a3638615c001c9438aabb2d3c20.jpg" title="Pescado Rabioso - Artaud"></a> <a href="https://www.last.fm/music/You+Me+at+Six/Sinners+Never+Sleep"><img src="https://lastfm.freetls.fastly.net/i/u/64s/238a5cc0d29541fa91ce8fd415480d6b.png" title="You Me at Six - Sinners Never Sleep"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
