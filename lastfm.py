@@ -12,7 +12,7 @@ def lastfm_request(payload):
     payload["format"] = "json"
     payload["user"] = os.getenv("LASTFM_USER")
     response = requests.get("https://ws.audioscrobbler.com/2.0/",
-                            headers=headers, params=payload)
+                            headers=headers, params=payload, timeout=60)
     return response
 
 def get_weekly_album_chart():
@@ -53,7 +53,7 @@ def update_readme(images):
     i = 0
     for img in images:
         if (i < int(os.getenv("IMAGE_COUNT"))):
-            if (requests.get(img[2]).status_code == 200):   
+            if (requests.get(img[2], timeout=60).status_code == 200):   
 
                 list = ["album-covers", "album-covers-finished"]
                 for items in list:
