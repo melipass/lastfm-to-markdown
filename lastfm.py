@@ -5,6 +5,7 @@ import urllib.request
 import os
 import imageio
 import numpy as np
+from security import safe_requests
 
 def lastfm_request(payload):
     headers = {"user-agent": os.getenv("LASTFM_USER")}
@@ -53,7 +54,7 @@ def update_readme(images):
     i = 0
     for img in images:
         if (i < int(os.getenv("IMAGE_COUNT"))):
-            if (requests.get(img[2], timeout=60).status_code == 200):   
+            if (safe_requests.get(img[2], timeout=60).status_code == 200):   
 
                 list = ["album-covers", "album-covers-finished"]
                 for items in list:
