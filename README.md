@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/my+bloody+valentine/Loveless"><img src="https://lastfm.freetls.fastly.net/i/u/64s/510546e3b6df7504392274c528c77780.jpg" title="my bloody valentine - Loveless"></a> <a href="https://www.last.fm/music/Molchat+Doma/%D1%8D%D1%82%D0%B0%D0%B6%D0%B8"><img src="https://lastfm.freetls.fastly.net/i/u/64s/ad7772faa3029d2992b7717119d30ac7.jpg" title="Molchat Doma - этажи"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Molchat+Doma/%D1%8D%D1%82%D0%B0%D0%B6%D0%B8"><img src="https://lastfm.freetls.fastly.net/i/u/64s/ad7772faa3029d2992b7717119d30ac7.jpg" title="Molchat Doma - этажи"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
