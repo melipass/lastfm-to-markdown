@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/%E5%90%9B%E7%B9%8B%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96%E3%82%A8%E3%83%A0"><img src="https://lastfm.freetls.fastly.net/i/u/64s/8aa3a82735ca4142b92efa5ea39a0a05.png" title="ASIAN KUNG-FU GENERATION - 君繋ファイブエム"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
