@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/%E3%82%BD%E3%83%AB%E3%83%95%E3%82%A1"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4a345ef05690bfd9cfaaabb796f2e478.jpg" title="ASIAN KUNG-FU GENERATION - ソルファ"></a> <a href="https://www.last.fm/music/Los+Prisioneros/Pateando+Piedras"><img src="https://lastfm.freetls.fastly.net/i/u/64s/ae1df16a50d44195897a30ef36918584.png" title="Los Prisioneros - Pateando Piedras"></a> <a href="https://www.last.fm/music/Los+Prisioneros/Corazones"><img src="https://lastfm.freetls.fastly.net/i/u/64s/221fdf7c137879cdca2a79a375d254f8.jpg" title="Los Prisioneros - Corazones"></a> <a href="https://www.last.fm/music/Los+Prisioneros/La+Cultura+De+La+Basura"><img src="https://lastfm.freetls.fastly.net/i/u/64s/21f65166f9b5d8f3a0a6bec5b4ab832e.jpg" title="Los Prisioneros - La Cultura De La Basura"></a> </p>
+<p align="center"></p>
 
           
 ## 👩🏽‍💻 What you'll need
