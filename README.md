@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/Hercules+and+Love+Affair/Hercules+And+Love+Affair"><img src="https://lastfm.freetls.fastly.net/i/u/64s/71f9af7255884e2ea89fbaaf759f1962.jpg" title="Hercules and Love Affair - Hercules And Love Affair"></a> <a href="https://www.last.fm/music/Haddaway/The+Album"><img src="https://lastfm.freetls.fastly.net/i/u/64s/5c904f4ea5821435e3dcaef7b249769e.jpg" title="Haddaway - The Album"></a> <a href="https://www.last.fm/music/Neutral+Milk+Hotel/In+the+Aeroplane+Over+the+Sea"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d95051e07a714889c8f7fbbccf61bf8b.jpg" title="Neutral Milk Hotel - In the Aeroplane Over the Sea"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
