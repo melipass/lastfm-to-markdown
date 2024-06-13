@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Vampire+Weekend/Vampire+Weekend"><img src="https://lastfm.freetls.fastly.net/i/u/64s/61fe67ac1045c545a57bfc81da022f91.png" title="Vampire Weekend - Vampire Weekend"></a> <a href="https://www.last.fm/music/Molchat+Doma/%D1%8D%D1%82%D0%B0%D0%B6%D0%B8"><img src="https://lastfm.freetls.fastly.net/i/u/64s/ad7772faa3029d2992b7717119d30ac7.jpg" title="Molchat Doma - этажи"></a> <a href="https://www.last.fm/music/Vampire+Weekend/Modern+Vampires+of+the+City"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b16f6605f041c9e4f4aae10812c38d9a.jpg" title="Vampire Weekend - Modern Vampires of the City"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Vampire+Weekend/Vampire+Weekend"><img src="https://lastfm.freetls.fastly.net/i/u/64s/61fe67ac1045c545a57bfc81da022f91.png" title="Vampire Weekend - Vampire Weekend"></a> <a href="https://www.last.fm/music/Vampire+Weekend/Modern+Vampires+of+the+City"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b16f6605f041c9e4f4aae10812c38d9a.jpg" title="Vampire Weekend - Modern Vampires of the City"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
