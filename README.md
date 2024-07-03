@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/The+Zombies/Odessey+and+Oracle"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1cdc2e6ade0ba3a5cfd0d6bcd2d98e73.jpg" title="The Zombies - Odessey and Oracle"></a> <a href="https://www.last.fm/music/X+JAPAN/The+Last+Live"><img src="https://lastfm.freetls.fastly.net/i/u/64s/61e5e6db31b440bcb52d2b6d6cf8dd9a.png" title="X JAPAN - The Last Live"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
