@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/The+Zombies/Odessey+and+Oracle"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1cdc2e6ade0ba3a5cfd0d6bcd2d98e73.jpg" title="The Zombies - Odessey and Oracle"></a> <a href="https://www.last.fm/music/X+JAPAN/The+Last+Live"><img src="https://lastfm.freetls.fastly.net/i/u/64s/61e5e6db31b440bcb52d2b6d6cf8dd9a.png" title="X JAPAN - The Last Live"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/The+Zombies/Odessey+and+Oracle"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1cdc2e6ade0ba3a5cfd0d6bcd2d98e73.jpg" title="The Zombies - Odessey and Oracle"></a> <a href="https://www.last.fm/music/Los+Jaivas/Obras+de+Violeta+Parra"><img src="https://lastfm.freetls.fastly.net/i/u/64s/30d6566610d34680854ac3c5b325b55b.jpg" title="Los Jaivas - Obras de Violeta Parra"></a> <a href="https://www.last.fm/music/Los+Jaivas/Aconcagua"><img src="https://lastfm.freetls.fastly.net/i/u/64s/880e6d8b6d14459caa4f038291039694.jpg" title="Los Jaivas - Aconcagua"></a> <a href="https://www.last.fm/music/X+JAPAN/The+Last+Live"><img src="https://lastfm.freetls.fastly.net/i/u/64s/61e5e6db31b440bcb52d2b6d6cf8dd9a.png" title="X JAPAN - The Last Live"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
