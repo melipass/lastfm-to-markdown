@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/ROSAL%C3%8DA/El+Mal+Querer"><img src="https://lastfm.freetls.fastly.net/i/u/64s/30cf2d09be4f1fb66eafd03dcc7343d2.png" title="ROSALÍA - El Mal Querer"></a> <a href="https://www.last.fm/music/Los+Jaivas/Obras+de+Violeta+Parra"><img src="https://lastfm.freetls.fastly.net/i/u/64s/30d6566610d34680854ac3c5b325b55b.jpg" title="Los Jaivas - Obras de Violeta Parra"></a> <a href="https://www.last.fm/music/Los+Jaivas/Aconcagua"><img src="https://lastfm.freetls.fastly.net/i/u/64s/880e6d8b6d14459caa4f038291039694.jpg" title="Los Jaivas - Aconcagua"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/ROSAL%C3%8DA/El+Mal+Querer"><img src="https://lastfm.freetls.fastly.net/i/u/64s/30cf2d09be4f1fb66eafd03dcc7343d2.png" title="ROSALÍA - El Mal Querer"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
