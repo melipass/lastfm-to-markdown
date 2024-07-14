@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/ROSAL%C3%8DA/El+Mal+Querer"><img src="https://lastfm.freetls.fastly.net/i/u/64s/30cf2d09be4f1fb66eafd03dcc7343d2.png" title="ROSALÍA - El Mal Querer"></a> </p>
+<p align="center"></p>
 
           
 ## 👩🏽‍💻 What you'll need
