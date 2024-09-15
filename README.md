@@ -7,7 +7,7 @@ This is a small project that I started because I wanted to have my last.fm weekl
 
 ## 🎵 Example output, automatically updated every day
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Taking+Back+Sunday/Tell+All+Your+Friends"><img src="https://lastfm.freetls.fastly.net/i/u/64s/5213af72e5bf4e539681c49b5b721445.png" title="Taking Back Sunday - Tell All Your Friends"></a> <a href="https://www.last.fm/music/The+All-American+Rejects/The+All-American+Rejects"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c9a8c357a6254c76ccbbf8c0617bd589.jpg" title="The All-American Rejects - The All-American Rejects"></a> <a href="https://www.last.fm/music/Pierce+the+Veil/Collide+With+the+Sky"><img src="https://lastfm.freetls.fastly.net/i/u/64s/557643a8faaa35768cb6088f576fed30.jpg" title="Pierce the Veil - Collide With the Sky"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Elephant+Gym/Underwater"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4c5612dc7d0c57116d8f9f43d8e4a8d1.jpg" title="Elephant Gym - Underwater"></a> <a href="https://www.last.fm/music/Taking+Back+Sunday/Tell+All+Your+Friends"><img src="https://lastfm.freetls.fastly.net/i/u/64s/5213af72e5bf4e539681c49b5b721445.png" title="Taking Back Sunday - Tell All Your Friends"></a> <a href="https://www.last.fm/music/The+All-American+Rejects/The+All-American+Rejects"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c9a8c357a6254c76ccbbf8c0617bd589.jpg" title="The All-American Rejects - The All-American Rejects"></a> <a href="https://www.last.fm/music/Elephant+Gym/Dreams"><img src="https://lastfm.freetls.fastly.net/i/u/64s/503dad3223f5e95213b7db7601070cc8.jpg" title="Elephant Gym - Dreams"></a> </p>
 
           
 ## 👩🏽‍💻 What you'll need
